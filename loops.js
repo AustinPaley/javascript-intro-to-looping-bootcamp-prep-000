@@ -24,6 +24,6 @@ function doWhileLoop(array){
 }
   do {
     [loopBody];
-  } while (maybeTrue())
+  } while (maybeTrue());
   }
 }
