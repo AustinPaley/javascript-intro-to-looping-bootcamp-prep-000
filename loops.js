@@ -3,6 +3,6 @@ function forLoop(array){
     
   }
   else {
-    `I am 1 strange loop`;
+    return `I am 1 strange loop`;
 }
 }
